@@ -97,3 +97,8 @@ input {
   color: white;
   border-radius: 6px;
 }
+table tbody thead{
+  display: flex;
+  flex-wrap: wrap;
+}
+
